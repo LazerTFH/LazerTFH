@@ -1,5 +1,5 @@
-## Hello im Lazer!
-In here you will find all the repositories of all projects that im working on.
+## BEHOLD, im Lazer!
+In here you will find all the repositories of some projects that im working on (or the ones I can share).
 
 You can also find me in:
 - Twitter(X): https://x.com/LazerTFH
